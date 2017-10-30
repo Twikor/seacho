@@ -1,7 +1,7 @@
 # Seacho - An open source application framework.
-**This is one of the projects by Twikor.For more,visit my blog [Twic (twikor.cn)](http://twikor.cn).**
+**This is one of the projects by Twikor.For more,visit my blog [Twic (twic.me)](http://twic.me).**
 
-#### **Seacho** is an open source application framework **already in use** for [Twic-dev](http://dev.twikor.cn),to be known as the twic-development-area.
+#### **Seacho** is an open source application framework **already in use** for [Twic-dev](http://dev.twic.me),to be known as the twic-development-area.
 
 #### The main function takes a bit as below:
 1. route (done)
