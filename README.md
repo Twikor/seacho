@@ -10,8 +10,8 @@
 4. database query class (processing)
 
 #### Thanks for the open projects it has included (ordered by alphabet):
-1. **Parsedown** by [erusev](https://github.com/erusev/parsedown)
-2. **PHPMailer** by [PHPMailer](https://github.com/PHPMailer/PHPMailer)
+1. [Parsedown](https://github.com/erusev/parsedown) by **erusev**
+2. [PHPMailer](https://github.com/PHPMailer/PHPMailer) by **PHPMailer**
 
 #### A step forward:
 Thank you anybody with the great impatience.Any problems,please send an issue right in github or take a step to [Twic-discuss](http://twikor.cn/discuss).I would appreciate it if so.
